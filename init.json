@@ -1,8 +1,3 @@
-{
-  "id": 10,
-  "category": {
-    "id": 1,
-    "name": "Dogs"
   },
   "name": "doggie",
   "photoUrls": [
@@ -18,3 +13,6 @@
 }
 
 Esta es la edición desde MASTER
+=======
+  }
+}
